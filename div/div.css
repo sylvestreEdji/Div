@@ -1,0 +1,10 @@
+#d1, #d2, #d3, #d4, #d5{
+	width:200px; 
+	height:130px;  
+	background-color: gray; 
+	border: 1px solid black; 
+	display: none; 
+	position: absolute; 
+	top: 30%; 
+	left:40%;
+}
